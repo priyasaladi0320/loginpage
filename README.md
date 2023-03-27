@@ -21,7 +21,7 @@ box-shadow: 0px 0px 5px grey;
 <label for="username"><b>Username</b></label>
 <input type="text" placeholder="Enter Unique Username" name="username" required>
 <label for="password"><b>Password</b></label>
-<input type="password" placeholder="Enter Password" name="password" required>
+<input type="password" placeholder="Enter  Password" name="password" required>
 <button type="submit">Login</button>
 <label>
 <input type="checkbox" checked="checked" name="remember">Remember me
