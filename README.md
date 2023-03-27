@@ -3,8 +3,8 @@
 <head>
 <title>Login Page</title>
 <style>
-body
-form
+<body>
+<form>
 input[type=text], input[type=password] {
 padding: 10px;
 margin: 5px 0 20 px 0;
