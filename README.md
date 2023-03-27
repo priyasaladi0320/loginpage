@@ -20,7 +20,7 @@ box-shadow: 0px 0px 5px grey;
 <h2>Login</h2>
 <label for="username"><b>Username</b></label>
 <input type="text" placeholder="Enter Unique Username" name="username" required>
-<label for="password">,b>Password</b></label>
+<label for="password"><b>Password</b></label>
 <input type="password" placeholder="Enter Password" name="password" required>
 <button type="submit">Login</button>
 <label>
